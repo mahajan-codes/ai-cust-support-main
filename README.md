@@ -1,10 +1,7 @@
 # ai-cust-support-main
 
 
-https://github.com/user-attachments/assets/1978b22c-334f-4564-97ec-bfcf53bf94df
-
-
-
+https://github.com/user-attachments/assets/1978b22c-334f-4564-97ec-bfcf53bf94df 
 
 **AI-CUSTOMER-SUPPORT** is a specialized solution designed specifically for the Headstarter company. However, it's also fully customizable to suit the needs of any organization seeking to enhance their customer support services. Powered by GPT-4, this application provides intelligent, responsive support to users, making it a valuable tool for any business. <
 
