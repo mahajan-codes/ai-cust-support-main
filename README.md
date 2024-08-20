@@ -1,8 +1,12 @@
 # ai-cust-support-main
 
-https://github.com/user-attachments/assets/55a6109e-e726-4e04-811c-60a51ccb738a
 
-AI-CUSTOMER-SUPPORT is a specialized solution designed specifically for the Headstarter company. However, it's also fully customizable to suit the needs of any organization seeking to enhance their customer support services. Powered by GPT-4, this application provides intelligent, responsive support to users, making it a valuable tool for any business.
+https://github.com/user-attachments/assets/1978b22c-334f-4564-97ec-bfcf53bf94df
+
+
+
+
+**AI-CUSTOMER-SUPPORT** is a specialized solution designed specifically for the Headstarter company. However, it's also fully customizable to suit the needs of any organization seeking to enhance their customer support services. Powered by GPT-4, this application provides intelligent, responsive support to users, making it a valuable tool for any business. <
 
 # Tech Stack
 - OpenAI API: Utilizes GPT-4 to provide advanced natural language understanding and responses.
